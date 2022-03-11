@@ -30,8 +30,8 @@ Anuki
 
 # Team SAN
 Nemiah Magazine
-Amanuel Abuerra Chala
-Sitina Jemal Hussein
+Amanuel Aberra Chala
+Sitina Jemal Hussen
 
 # Team Bac/<-End
 Ahmed Tebakhi
